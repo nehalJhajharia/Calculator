@@ -106,20 +106,6 @@ int main()
             Trigonometry();
             separate('*');
             break;
-
-        // INCOMPLETE
-        case 'i': // Inverse Trigonometry
-            separate('*');
-            cout << "Inverse Trigonometric functions are not available for now!!\n";
-            separate('*');
-            break;
-        
-        // INCOMPLETE
-        case 'h': // Hyperbole
-            separate('*');
-            cout << "Hyperbolic functions are not available for now!!\n";
-            separate('*');
-            break;
         
         case 'l': // Logarithm
             separate('*');
