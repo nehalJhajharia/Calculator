@@ -16,6 +16,7 @@ long int num (0);
 #include "Functions.h"
 #include "Exponent.h"
 #include "Logarithm.h"
+#include "Trigonometry.h"
 
 // MAIN
 int main()
@@ -100,10 +101,9 @@ int main()
             separate('*');
             break;
         
-        // INCOMPLETE
         case 't': // Trigonometry
             separate('*');
-            cout << "Trigonometric functions are not available for now!!\n";
+            Trigonometry();
             separate('*');
             break;
 
