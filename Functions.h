@@ -25,7 +25,6 @@ void commands()
          << "f     -     Celcius to Fahrenheit\n"
          << "c     -     Fahrenheit to Celcius\n"
          << "t     -     Trigonometry\n"
-         << "h     -     Hyperbole\n"
          << "l     -     Logarithm\n"
          << "^     -     Exponent\n"
          << "?     -     See Commands\n"
