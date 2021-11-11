@@ -23,7 +23,7 @@ float DegtoNum(float deg)
 // Trigonometry
 void Trigonometry()
 {
-    char key2 ('\0');
+    char key2 {'\0'};
     triCommands();
     separate('-');
 
