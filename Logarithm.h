@@ -13,7 +13,7 @@ void logCommands()
 // Logarithm
 void Log()
 {
-    char key2 ('\0');
+    char key2 {'\0'};
     logCommands();
     separate('-');
 
