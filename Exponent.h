@@ -15,7 +15,7 @@ void expCommands()
 // Exponent
 void Exponent()
 {
-    char key2 ('\0');
+    char key2 {'\0'};
     expCommands();
     separate('^');
 
