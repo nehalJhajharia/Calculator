@@ -8,9 +8,9 @@ using namespace std;
 #define PI 3.14159
 
 // Some essential variables
-float a (0);
-float b (0);
-long int num (0);
+float a {0};
+float b {0};
+long int num {0};
 
 // Extra Header Files
 #include "Functions.h"
@@ -21,7 +21,7 @@ long int num (0);
 // MAIN
 int main()
 {
-    char key ('\0');
+    char key {'\0'};
 
     separate('#');
     commands();
